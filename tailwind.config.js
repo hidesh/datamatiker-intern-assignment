@@ -9,8 +9,8 @@ module.exports = {
       '2xl': '1440px',
     },
     fontFamily: {
-      sans: ['Montserrat', 'Roboto'],
-      alternative: ['Montserrat Alternates', 'Roboto'],
+      sans: ['Montserrat', 'Roboto', 'sans-serif'],
+      alternative: ['Montserrat Alternates', 'Roboto', 'sans-serif'],
     },
     extend: {
       colors: {

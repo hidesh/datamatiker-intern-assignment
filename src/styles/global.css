@@ -3,3 +3,54 @@
 @tailwind components;
 
 @tailwind utilities;
+
+@layer base {
+
+  @font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('/fonts/Montserrat-Alternates-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: fallback;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('/fonts/Montserrat-Alternates-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: fallback;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('/fonts/Montserrat-Alternates-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: fallback;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: fallback;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: fallback;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-display: fallback;
+    font-style: italic;
+  }
+}
