@@ -22,4 +22,4 @@ Du skal udvikle en header som er gennemgående på begge sider. Det skal være m
 ### 3. Footer(Bonus)
 Du skal udvikle en footer som er gennemgående på begge sider. Det skal være muligt at trykke på social media ikonerne og blive henvist til Dreamplan's SoMe.
 
-### Vær gerne kreativ og gør dit bedste.
+### Vær gerne kreativ og gør dit bedste..
