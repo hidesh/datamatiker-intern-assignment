@@ -12,3 +12,12 @@ module.exports = withBundleAnalyzer({
   // You can remove `basePath` if you don't need it.
   reactStrictMode: true,
 });
+
+module.exports = {
+  eslint: {
+    // Warning: This allows production builds to successfully complete even if
+    // your project has ESLint errors.
+    // https://nextjs.org/docs/api-reference/next.config.js/ignoring-eslint
+    ignoreDuringBuilds: true,
+  },
+};
