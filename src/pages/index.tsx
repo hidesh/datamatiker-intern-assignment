@@ -13,15 +13,15 @@ const Index = () => {
         Kære praktikansøger,
       </h1>
       <p className="text-xl font-sans text-gray-800 my-10 ">
-        Scopet for denne opgave er at finde ud af hvor meget praktikanten ved om &
+        Scopet for denne opgave er at finde ud af hvor meget praktikanten ved om 
         de teknologier som Dreamplan bruger. Dette projekt er en standard
         React/Tailwind/NextJs/Typescript template som minder om Dreamplans
-        nuværende frontend projekt. Du har fire timer til opgaven, og den &
-        afleveres ved at create a fork med en beskrivelse af de features du 'har'
+        nuværende frontend projekt. Du har fire timer til opgaven, og den 
+        afleveres ved at create a fork med en beskrivelse af de features du har
         udviklet.
       </p>
       <h1 className="text-dp-headline-2-m font-alternative font-semibold">
-        Intro &
+        Intro 
       </h1>
       <p className="text-xl font-sans text-gray-800 mt-4 mb-10 ">
         Npm install projektet og opret en branch som inkluderer dit navn. Når du
