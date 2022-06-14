@@ -3,8 +3,10 @@ Scopet for denne opgave er, at se hvor meget praktikantansøgere ved om de tekno
 Dette projekt er en standard React/Tailwind/NextJs/Typescript template som minder om Dreamplan’s nuværende website frontend projekt.
 Du har fire timer til opgaven, og du afleverer den ved at "create a fork" med en beskrivelse af de features du har udviklet.
 
+
+
 ### Intro
-Npm install projektet og opret en branch som inkluderer dit navn.
+Start med at Npm install projektet og opret en branch som inkluderer dit navn.
 Når du har fået installeret projektet, skal du gå ind på figma, her vil du finde det design som du skal udvikle ud fra. Til dagligt bliver alt designet til Dreamplan’s udviklere i figma.
 Figma link: https://www.figma.com/file/gKl0SZkthgwqR8434FL5fL/Intern-Assignment---Dat?node-id=0%3A1
 Bestræb dig på at udvikle så det ligner designet på figma så meget som muligt.
