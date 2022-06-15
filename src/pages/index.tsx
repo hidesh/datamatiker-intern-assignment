@@ -9,9 +9,9 @@ const Index = () => {
         <title>Intern assignment</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-<div className='text-2xl text-center'>
-  Intern assignment 
-</div>
+        <div className='text-dp-headline-4-m font-alternative font-semibold text-center'>
+          Intern assignment 
+        </div>
     </div>
   );
 };
