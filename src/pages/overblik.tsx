@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Index = () => {
+
+const Overblik = () => {
   return (
     <div className="">
-
+     
     </div>
   );
 };
 
-export default Index;
+export default Overblik;
