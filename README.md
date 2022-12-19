@@ -1,33 +1,31 @@
-## Kære praktikansøger,
-Scopet for denne opgave er, at se hvor meget praktikantansøgere ved om de teknologier som Dreamplan bruger.
-Dette projekt er en standard React/Tailwind/NextJs/Typescript template som minder om Dreamplan’s nuværende website frontend projekt.
-Du har fire timer til opgaven, og du afleverer den ved at lave et pull request med en beskrivelse af de features du har udviklet.
-
-
+## Dear internship applicant,
+The scope of this assignment is to see how much internship applicants know about the technologies that Dreamplan uses.
+This project is a standard React/Tailwind/NextJs/Typescript template similar to Dreamplan's current website frontend project.
+You will have four hours for the assignment, and you will submit it by making a pull request with a description of the features you have developed.
 
 ### Intro
-Start med at hente projektet i visual studio code og opret en branch som inkluderer dit navn. Herefter skal du vælge "create a fork" som peger på dreamplan-io
-/datamatiker-intern-assignment, nu burde projektet være klart til at du kan gå i gang. Husk at "npm install" før du går igang med at udvikle.  
+Start by downloading the project in visual studio code and create a branch that includes your name. Then select "create a fork" which points to dreamplan-io
+/datamatiker-intern-assignment, now the project should be ready for you to get started. Remember to "npm install" before you start developing.  
 
-Nu skal du gå ind på figma, her vil du finde det design som du skal udvikle. Til dagligt bliver alt design til Dreamplan’s udviklere lavet i figma.
+Now go to figma, here you will find the design you need to develop. Currently, all design for Dreamplan's developers is done in figma.
 Figma link: https://www.figma.com/file/gKl0SZkthgwqR8434FL5fL/Intern-Assignment---Dat?node-id=0%3A1
 
-Du kan dobbelt klikke på de forskellige elementer i designet og se alt data som fx. tekststørrelse, farver, bredde osv. ved at vælge "inspect" i højre side.  
+You can double click on the different elements of the design and see all the data like. text size, colors, width etc. by selecting "inspect" on the right side.  
 
-Du skal udvikle siderne så de er responsive i mobil, tablet og desktop view med tailwindCSS.
-Et godt råd er at udvikle mobile first og at starte med at kigge i tailwind.config filen, hvor vi allerede har sat nogle pre-definerede styles ind.
+You need to develop the pages so they are responsive in mobile, tablet and desktop view with tailwindCSS.
+A good advice is to develop mobile first and to start by looking in the tailwind.config file, where we have already put some pre-defined styles.
 
 
-### 1. Udvikle siden Q&A 
-Du skal udvikle siden "Q&A" som du finder ved at gå ind på ovenstående figma link. 
-Start med at oprette en side under "src/pages" og prøv dig frem med at udvikle siderne gerne med komponenter, som skal genbruges for at holde din kode dry.
+### 1. Develop the page Q&A 
+You need to develop the "Q&A" page which you can find by going to the figma link above. 
+Start by creating a page under "src/pages" and try your hand at developing pages preferably with components that will be reused to keep your code dry.
 
-### 2. Udvikle siden Overblik 
-Du skal udvikle siden "Overblik" som du finder ved at gå ind på ovenstående figma link. 
-Start med at oprette en side under "src/pages" og prøv dig frem med at udvikle siderne gerne med komponenter, som skal genbruges for at holde din kode dry.
+### 2. Develop Page Overview 
+You should develop the page "Overview" which you can find by going to the figma link above. 
+Start by creating a page under "src/pages" and try your hand at developing the pages, preferably with components that will be reused to keep your code dry.
 
 ### 3. Header
-Du skal udvikle en header som er gennemgående på begge sider. Det skal være muligt at navigere imellem siderne når der trykkes på "Q&A" og "Overblik" i headeren. 
+You should develop a header that is consistent on both pages. It should be possible to navigate between the pages when pressing "Q&A" and "Overview" in the header. 
 
-### 4. Footer (Ekstra opg.)
-Du skal udvikle en footer som er gennemgående på begge sider. Det skal være muligt at trykke på social media ikonerne og blive henvist til Dreamplan's SoMe.
+### 4. Footer (Extra opg.)
+You should develop a footer that is continuous on both pages. It should be possible to tap on the social media icons and be directed to Dreamplan's SoMe (facebook.com/dreamplan).
