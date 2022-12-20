@@ -1,7 +1,8 @@
 ## Dear internship applicant,
 The scope of this assignment is to see how much internship applicants know about the technologies that Dreamplan uses.
 This project is a standard React/Tailwind/NextJs/Typescript template similar to Dreamplan's current website frontend project.
-You will have four hours for the assignment, and you will submit it by making a pull request with a description of the features you have developed.
+You will submit it by making a pull request with a description of the features you have developed.
+Once you feel ready to submit, you should reach out and set up a meeting with stine@dreamplan.io
 
 ### Intro
 Start by downloading the project in visual studio code and create a branch that includes your name. Then select "create a fork" which points to dreamplan-io
