@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
@@ -16,6 +17,9 @@ module.exports = {
     extend: {
       colors: {
         dp: {
+          'Blue-button': '#0700F6',
+          'Green-moon': '#669E83',
+          'wintergreen-dream': '#4D8387',
           'blue-500': '#0700F6',
           'light-blue-400': '#99E2E7',
           'light-blue-800': '#33585A',
